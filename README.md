@@ -1,1 +1,10 @@
-A read me for this stupid vagrant project
+# Vagrant - or - how to code in your local computer
+
+## Learning Objectives
+At the end of this project, you should be able to explain to anyone, without the help of Google:
+
+* What is a virtual machine
+
+* What is Vagrant
+
+* Who wrote vagrant
